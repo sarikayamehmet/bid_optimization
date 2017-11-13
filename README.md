@@ -1,2 +1,2 @@
-# bid_optimization
-Probabilidad de conversión
+# Comportamiento ventes jugetes
+Series temporales
