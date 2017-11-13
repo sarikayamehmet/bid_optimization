@@ -1,2 +1,2 @@
-# Comportamiento ventes jugetes
+# Comportamiento ventas jugetes
 Series temporales
