@@ -1,3 +1,7 @@
+Bu repo'daki yaklaşım güzel.
+Hesaplamada kullanılan sütunlar temel alınarak kendi data setimizde başlayabiliriz.
+Daha sonra data setimizde yer alan ekstra kolonlar ile başarı artırımına gidebiliriz.
+
 # Comportamiento ventas juguetes.  
 
 1. Introducción.
